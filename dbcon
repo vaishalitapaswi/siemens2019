@@ -1,4 +1,5 @@
-mydb.cphr8qotgspy.us-east-1.rds.amazonaws.com
-mydb
-admin
-KFt0VNOS4g9wLSukN2D1
+url=mydb.cphr8qotgspy.us-east-1.rds.amazonaws.com
+username=admin
+password=password
+dbname=innodb
+
